@@ -28,5 +28,5 @@
 - 👋 Hi, I’m @aqiao-jashell
 - 👀  I am interested in GO language, penetration testing, databases, computer networks, operating systems, artificial intelligence, etc.
 - 🌱  I am currently studying code auditing, including JavaScript code auditing and artificial intelligence.
-- 💞 I hope to collaborate on writing tools.
+- 💞 I hope to collaborate on collaborative tools.
 - 📫 
