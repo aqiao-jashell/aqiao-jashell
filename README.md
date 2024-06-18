@@ -27,7 +27,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>yaorongke</title>
 </head>
 <body>
     <h1>cnaq的个人主页</h1>
@@ -35,8 +34,6 @@
 </body>
 </html>
 <!-- 个人简介 -->
-- 👋 Hi, I’m @aqiao-jashell
-- 👀  I am interested in GO language, penetration testing, databases, computer networks, operating systems, artificial intelligence, etc.
-- 🌱  I am currently studying code auditing, including JavaScript code auditing and artificial intelligence.
-- 💞 I hope to collaborate on collaborative tools.
-- 📫 
+- 👀 I am good at GO language, penetration testing, database, computer network, operating system, artificial intelligence, anti-killing technology, etc.
+- 🌱 I am currently studying code auditing, including JavaScript code auditing and artificial intelligence.
+- 💞 I hope to collaborate on collaboration tools.
