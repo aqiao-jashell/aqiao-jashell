@@ -27,7 +27,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CNAQ</title>
+    <title>一只即将爬起来的鲶鱼</title>
 </head>
 <body>
     <h1>cnaq的个人主页</h1>
