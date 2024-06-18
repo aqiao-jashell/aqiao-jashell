@@ -23,17 +23,6 @@
 </div>
 
 ## Hi! Nice to meet you!
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>一只即将爬起来的鲶鱼</title>
-</head>
-<body>
-    <h1>cnaq的个人主页</h1>
-    <h1>Hello ~</h1>
-</body>
-</html>
 <!-- 个人简介 -->
 - 👀 I am good at GO language, penetration testing, database, computer network, operating system, artificial intelligence, anti-killing technology, etc.
 - 🌱 I am currently studying code auditing, including java, JavaScript, php code auditing and artificial intelligence.
