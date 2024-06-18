@@ -27,6 +27,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <title>CNAQ</title>
 </head>
 <body>
     <h1>cnaq的个人主页</h1>
@@ -35,5 +36,5 @@
 </html>
 <!-- 个人简介 -->
 - 👀 I am good at GO language, penetration testing, database, computer network, operating system, artificial intelligence, anti-killing technology, etc.
-- 🌱 I am currently studying code auditing, including JavaScript code auditing and artificial intelligence.
+- 🌱 I am currently studying code auditing, including java, JavaScript, php code auditing and artificial intelligence.
 - 💞 I hope to collaborate on collaboration tools.
